@@ -49,7 +49,7 @@
     "pg-sql2": "2.0.0",
     "postgraphile-core": "4.0.0-beta.7",
     "send": "^0.16.1",
-    "tslib": "^1.5.0"
+    "tslib": "^1.14.1"
   },
   "devDependencies": {
     "@types/chalk": "^0.4.30",
